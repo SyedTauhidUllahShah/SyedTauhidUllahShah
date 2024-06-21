@@ -17,8 +17,6 @@
 
 ## 🛠️ My Toolbox
 <div style="text-align: center;">
-  ## 🛠️ My Toolbox
-
   | **Category** | **Tools** |
   |--------------|-----------|
   | **Development 💻**  | ![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat-square&logo=C%2B%2B&color=353535) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) |
