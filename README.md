@@ -29,9 +29,13 @@
 ### 🗣️ Natural Language Processing
 ![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat-square&logo=NLTK&color=353535) ![Huggingface](https://img.shields.io/badge/-Huggingface-05122A?style=flat-square&logo=Huggingface&color=353535) ![Langchain](https://img.shields.io/badge/-Langchain-05122A?style=flat-square&logo=Langchain&color=353535)
 
+### ☁️ Cloud
+![GCP](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat-square&logo=Google-Cloud&color=353535) ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-05122A?style=flat-square&logo=Microsoft-Azure&color=353535) ![AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat-square&logo=Amazon-AWS&color=353535)
+
 ### 🖥️ Operating Systems
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat-square&logo=Windows&color=353535) ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535) ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat-square&logo=MacOS&color=353535)
 
 ### 🛠️ Tools
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat-square&logo=Jupyter&color=353535)
+
 
