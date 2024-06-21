@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on LLMs and Requirement Engineering
 - 🌱 I’m currently learning LLMOps
 - 👯 I’m looking to collaborate on anything related to NLP (Interpretability and explainability).
-- 📫 How to reach me:Tauhidullah116079@gmail.com
+- 📫 How to reach me:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tauhidullah116079@gmail.com)
 - 😄 Pronouns: He/Him
 
