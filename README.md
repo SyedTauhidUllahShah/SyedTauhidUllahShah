@@ -28,5 +28,8 @@
 | **Tools** | ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat-square&logo=Jupyter&color=353535) |
 
 
-
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedTauhidUllahShah&show_icons=true&locale=en&layout=compact" alt="SyedTauhidUllahShah" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=SyedTauhidUllahShah&" alt="SyedTauhidUllahShah" />
+</div>
 
