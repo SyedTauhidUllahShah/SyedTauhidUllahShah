@@ -1,7 +1,7 @@
 <h1> Syed Tauhid Ullah Shah </h1>👋
 
 
-- 🔭 I’m currently working on LLMs and Requirement Engineering
+- 🔭 I’m currently working on LLMs and Requirements Engineering
 - 🌱 I’m currently learning LLMOps
 - 👯 I’m looking to collaborate on anything related to NLP (Interpretability and explainability).
 - 📫 Contact me @:
@@ -10,10 +10,10 @@
 
 <h1>  🖥 Skills and Interest </h1>
 
-- Deep Learning
-- Natural Language Processing
-- Recommender Systems
-- Requirements Engineering
+- 🤖 Deep Learning
+- 🗣️ Natural Language Processing
+- 🌟 Recommender Systems
+- 📜 Requirements Engineering
 
 ## 🛠️ My Toolbox
 
